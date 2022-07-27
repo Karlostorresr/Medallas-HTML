@@ -1,0 +1,51 @@
+.pokemonname{
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head, body{background-color: rgb(148, 234, 212);}
+    
+
+.imagen{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.parrafo{background-color: rgba(104, 136, 163, 0.557);
+    font-size:x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.enlace{ 
+    background-color: rgba(21, 83, 39, 0.609); border-radius: 05%;
+    width: 150px; height: 40px; font: black; font-size: medium;}
+
+.pokemon1, head{
+    background-image: url(/assets/forest.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.pokemon2{
+    background-image: url(/assets/agua1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.pokemon3{
+    background-image: url(/assets/agua2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
